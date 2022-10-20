@@ -1,0 +1,12 @@
+moviepy==1.0.3
+fastapi==0.78.0
+uvicorn==0.17.6
+loguru==0.6.0
+pika==1.2.1
+aio-pika==8.0.3
+pymongo==4.1.1
+vk_api
+beautifulsoup4
+pyTelegramBotApi
+python-dotenv
+youtube_dl
